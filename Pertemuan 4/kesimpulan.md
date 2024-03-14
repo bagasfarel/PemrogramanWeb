@@ -1,9 +1,9 @@
-1. Praktikum Bagian 1 (Variabel dan Konstanta) Pada praktikum ini, Anda mempelajari cara membuat dan menggunakan variabel serta konstanta dalam PHP. Variabel digunakan untuk menyimpan data yang dapat berubah, sedangkan konstanta digunakan untuk menyimpan nilai yang tetap selama program berjalan.
+1. Praktikum 1 variabel dan Konstanta, mempelajari cara membuat dan menggunakan variabel serta konstanta dalam PHP
 
-2. Praktikum Bagian 2 (Tipe Data) Praktikum ini membahas tentang berbagai tipe data yang tersedia di PHP, seperti integer, float, boolean, string, array, object, NULL, dan callable. Anda mempraktikkan cara mendeklarasikan dan menggunakan berbagai tipe data tersebut.
+2. Praktikum 2 tipe Data, tentang berbagai tipe data yang tersedia di PHP, seperti integer, float, boolean, string, array, object, NULL, dan callable
 
-3. Praktikum Bagian 3 (Operator) Pada praktikum ini, Anda mempelajari berbagai jenis operator yang tersedia di PHP, seperti operator aritmatika, pembanding, logika, penugasan, increment/decrement, bitwise, pemangkatan, identik, ternary, dan operator array. Anda mempraktikkan penggunaan operator-operator tersebut dalam program PHP.
+3. Praktikum 3 operator, berbagai jenis operator yang tersedia di PHP, seperti operator aritmatika, pembanding, logika, penugasan, increment/decrement, bitwise, pemangkatan, identik, ternary, dan operator array
 
-4. Praktikum Bagian 4 (Struktur Kontrol) Praktikum ini membahas penggunaan struktur kontrol dalam PHP, seperti pernyataan kondisional (if, else, elseif, switch) dan perulangan (for, while, do-while). Anda juga mempraktikkan penggunaan pernyataan pengendalian aliran (break dan continue).
+4. Praktikum 4 struktur kontrol, penggunaan struktur kontrol dalam PHP, seperti pernyataan kondisional if, else, elseif, switch dan perulangan for, while, do-while
 
-5. Praktikum Bagian 5 (Array) Pada praktikum terakhir, Anda mempelajari cara menggunakan array dalam PHP, termasuk array satu dimensi, array dua dimensi, array multidimensi, dan array asosiatif. Anda mempraktikkan cara mendeklarasikan, mengakses, menambah, mengubah, dan melakukan iterasi pada berbagai jenis array tersebut.
+5. Praktikum 5 array Pada praktikum terakhir, mempelajari cara menggunakan array dalam PHP, termasuk array satu dimensi, array dua dimensi, array multidimensi, dan array asosiatif

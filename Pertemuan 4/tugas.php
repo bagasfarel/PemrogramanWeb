@@ -4,7 +4,7 @@ $tugas = [
         "img" => "<img src='hanni.jpg'height=200 width=300>",
         "nama_lengkap" => "Pham Ngoc Han", 
         "nama_panggilan" => "Hanni", 
-        "ttl" => "Melbourne, Australia, 6 Oktober 2024", 
+        "ttl" => "Melbourne, Australia, 6 Oktober 2004", 
         "pekerjaan" => "Idol Grup New Jeans"
     ],
     'Karina' => [
